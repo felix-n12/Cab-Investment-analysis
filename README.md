@@ -1,5 +1,5 @@
 #                                                 Cab-Investment-analysis
-                       ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yellow_cabs_2.jpg/300px-Yellow_cabs_2.jpg)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yellow_cabs_2.jpg/300px-Yellow_cabs_2.jpg)
 ## Overview
 Company XYZ ,due to remarkable growth in the Cab Industry in last few years and multiple key players in the market, it is planning for an investment in Cab industry and as per their Go-to-Market(G2M) strategy they want to understand the market before taking final decision
 ## Business problem
